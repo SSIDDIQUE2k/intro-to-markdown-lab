@@ -143,7 +143,26 @@ Using images can elevate your documentation, tutorials, and project write-ups. E
 
 
 
-You Do 5 
+You Do 5 done
 
 ![Door Dashz](https://images.unsplash.com/photo-1717457779626-24fafc629c67?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
+8. Extended syntax
+
+| Syntax | Description |
+| ------ | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+Task list
+
+- [x] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
+Strikethrough
+
+This text has been ~~redacted~~. 
+
+
+------------------      Lab Completed -------------------------------
